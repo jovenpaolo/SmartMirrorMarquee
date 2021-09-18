@@ -38,7 +38,7 @@
     "fog" : [
     ],
     "night_clear": [
-        "Weather forecast: /n Astrophotography"
+        "Weather forecast: \n Astrophotography"
     ],
     "night_cloudy" : [
     ],
